@@ -1,4 +1,8 @@
 This is First.txt, it's a new file that I've created
 
 
+<<<<<<< HEAD
 Added a line locally
+=======
+Different text lool
+>>>>>>> eba041120ae5be046ba49ac53c13648ea5f28228
